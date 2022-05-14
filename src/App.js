@@ -1,5 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
+import Menu from './Menu'
+import Categories from './Categories'
+import items from './data'
 
 function App() {
   return (
